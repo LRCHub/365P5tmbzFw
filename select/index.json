@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "がらすの線",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-11T06:25:47.769219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "がらすの線",
+      "artist": "Tele",
+      "has_synced": true,
+      "path": "select/01_がらすの線_Tele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "がらすの線",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_がらすの線_Tele.txt"
+    }
+  ]
+}
